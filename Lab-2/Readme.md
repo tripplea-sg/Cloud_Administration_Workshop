@@ -33,6 +33,7 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
 2.	On Policies Page, under List Scope, select the Compartment(root).
+
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
 3.	On Create Policy, enter Name, Description, and add the following Policies Statements: </b>
