@@ -9,6 +9,8 @@ That means: </br></br>
 ## Step - 1: Register to Oracle Cloud to use FREE TIER
 **Watch this video for easy reference**: https://www.linkedin.com/feed/update/urn:li:activity:6724226562507595776/
 1. To Sign in for an Oracle Cloud Free Tier Account, please, visit https://www.oracle.com/cloud/free/, and click on **Start for free**. </br>
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+</br>
 2. On Create Account, enter Email Address and Country/Territory, read Terms of Use, and click on **Next** </br>
 3. On Enter Account Details, select the Account Type, enter Cloud Account Name, First Name, Last Name, Address, City, State, Zip/Postal Code, Country/Territory, and Mobile Number, select the Home Region, and click on **Next: Verify Mobile Number**. </br>
    **Note: You must have an OCI tenancy subscribed to the Tokyo (East)** </br>
