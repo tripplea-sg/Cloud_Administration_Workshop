@@ -3,4 +3,6 @@ The Free Trial services may be used until your US$300 of free credits are consum
 </br></br>
 That means: </br></br>
 ![Image of Yaktocat](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Screenshot%202020-11-12%20at%208.33.21%20PM.png)
+</br></br>
+
 
