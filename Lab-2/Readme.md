@@ -53,25 +53,27 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
 (Refer to Step-3 on the video) </br>
 1.	On the Navigation Menu, under Core Infrastructure, select Networking -> Virtual Cloud Networks. 
 
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev1.png)
 </br>
 2.	Click on Start VCN Wizard. 
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev2.png)
 </br>
 3.	On Start VCN Wizard, select VCN with Internet Connectivity and click on Button Start VCN Wizard. 
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev3.png)
 </br>
 4.	On Create a VCN with Internet Connectivity, under Basic Information, enter VCN Name and select the Compartment.  </br>
 Under Configure VCN and Subnets, add 10.0.0.0/16 on VCN CIDR Block, 10.0.0.0/24 on Public Subnet CIDR Block, and 10.0.1.0/24 on Private Subnet CIDR Block and click Next. 
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev4.png)
+</br>
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev5.png)
 </br>
 5.	Under Review and Create, review the Oracle Virtual Cloud Network (VCN) and Subnets information and click on Create.
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev6.png)
 </br>
 6.	The Virtual Cloud Network creation is completed. 
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev7.png)
 </br>
 7.	On Created Virtual Cloud Network, click on View Virtual Cloud Network to view the VCN and Subnets created. 
- ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
+ ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev8.png)
 </br>
 
