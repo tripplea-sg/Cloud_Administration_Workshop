@@ -62,3 +62,4 @@ WHERE
 	AND
 	country.Capital = city.ID
   ```
+**USE \q or \quit to exit MySQL Shell**
