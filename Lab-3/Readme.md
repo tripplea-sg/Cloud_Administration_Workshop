@@ -27,7 +27,7 @@ Deploy and run MySQL by using this command
 ```
 mysqlsh -e "dba.deploySandboxInstance(3306)"
 ```
-## Download Sakila database and load into database 
+## Download Sakila sample database and load into database 
 Download sakila database by running this commmand:
 ```
 wget https://downloads.mysql.com/docs/sakila-db.tar.gz
@@ -45,21 +45,24 @@ Show all databases using the following command:
 ```
 mysqlsh root@localhost:3306 --sql -e "show databases"
 ```
-## Download world_x database and load into database 
+Select from table sakila.actor
+```
+mysqlsh root@localhost:3306 --sql -e "select * from sakila.actor"
+```
+## Download world_x sample database and load into database 
 Download sakila database by running this commmand:
 ```
-wget https://downloads.mysql.com/docs/sakila-db.tar.gz
+wget http://downloads.mysql.com/docs/world_x-db.zip
 ```
 Extract TAR ball using the following command:
 ```
-tar xvzf sakila-db.tar.gz
+unzip world_x-db.zip 
 ```
 Load sakila database into MySQL by running the following command
 ```
-mysqlsh root@localhost:3306 --sql -e "source sakila-db/sakila-schema.sql"
-mysqlsh root@localhost:3306 --sql -e "source sakila-db/sakila-data.sql"
+mysqlsh root@localhost:3306 --sql -e "source world_x-db/world_x.sql"
 ```
 Show all databases using the following command:
 ```
-mysqlsh root@localhost:3306 --sql -e "show databases"
+mysqlsh root@localhost:3306 --sql -e "select * from world_x.city"
 ```
