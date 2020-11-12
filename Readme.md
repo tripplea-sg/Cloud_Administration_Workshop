@@ -7,7 +7,7 @@ This repositories aims to provide steps to learn how to: </br></br>
 - Provision Virtual Machine on your compartment, setup MySQL, MySQL Shell and MySQL Router 
 - Learn about MySQL Document Store (MySQL 8.0 = SQL + NoSQL) 
 - Backup, Restore and Cloning MySQL 
-- MySQL Replication setup </br>
+- MySQL Replication and Group Replication </br>
 - Setup MySQL Database Service (MDS) 
 - Connect to your MDS 
 - Backup MDS 
