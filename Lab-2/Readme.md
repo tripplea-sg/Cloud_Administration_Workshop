@@ -16,3 +16,15 @@ Do **step 1 (create Compartment), step 2 (create policy), and step 3 (Create Vir
 
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture3.png)
 </br>
+## Create Compartment
+1.	On the Navigation Menu, under Governance and Administration, select Identity -> Compartments. 
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture1.png)
+</br>
+2.	On Compartments Page, click on Create Compartment. </br>
+Note:  Two Compartments, named Oracle Account Name (root) and a Managed CompartmentForPaaS, were automaticatly created by the Oracle Cloud. 
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture1.png)
+</br>
+3.	On Create Compartment, enter Name, Description, select Parent Compartment, and click on Create Compartment. 
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture1.png)
+</br>
+
