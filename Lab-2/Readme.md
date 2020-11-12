@@ -59,10 +59,12 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev2.png)
 </br>
 3.	On Start VCN Wizard, select VCN with Internet Connectivity and click on Button Start VCN Wizard. 
+ 
  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev3.png)
 </br>
 4.	On Create a VCN with Internet Connectivity, under Basic Information, enter VCN Name and select the Compartment.  </br>
 Under Configure VCN and Subnets, add 10.0.0.0/16 on VCN CIDR Block, 10.0.0.0/24 on Public Subnet CIDR Block, and 10.0.1.0/24 on Private Subnet CIDR Block and click Next. 
+ 
  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev4.png)
 </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev5.png)
