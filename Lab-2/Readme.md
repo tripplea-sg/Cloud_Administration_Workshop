@@ -28,4 +28,14 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
 3.	On Create Compartment, enter Name, Description, select Parent Compartment, and click on Create Compartment. 
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
+## Create Policy
+1.	On the Navigation Menu, under Governance and Administration, select Identity -> Policies. 
+2.	On Policies Page, under List Scope, select the Compartment(root).
+3.	On Create Policy, enter Name, Description, and add the following Policies Statements: </b>
+-	Policy Statement 1:
+	- Allow group Administrators to {COMPARTMENT_INSPECT} in tenancy
+-	Policy Statement 2:
+ 	- Allow group Administrators to {VCN_READ, SUBNET_READ, SUBNET_ATTACH, SUBNET_DETACH} in tenancy
+-	Policy Statement 3:
+  -	Allow group Administrators to manage mysql-family in tenancy
 
