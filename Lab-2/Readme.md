@@ -17,6 +17,7 @@ Do **step 1 (create Compartment), step 2 (create policy), and step 3 (Create Vir
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture3.png)
 </br>
 ## Create Compartment
+(Refer to Step-1 on the video) </br>
 1.	On the Navigation Menu, under Governance and Administration, select Identity -> Compartments. 
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture4.png)
 </br>
@@ -29,6 +30,7 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
 ## Create Policy
+(Refer to Step-2 on the video) </br>
 1.	On the Navigation Menu, under Governance and Administration, select Identity -> Policies. 
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
@@ -45,4 +47,7 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
   -	Allow group Administrators to manage mysql-family in tenancy
   ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
+## Create Virtual Cloud Network (VCN)
+(Refer to Step-3 on the video) </br>
+1.	On the Navigation Menu, under Core Infrastructure, select Networking -> Virtual Cloud Networks. 
 
