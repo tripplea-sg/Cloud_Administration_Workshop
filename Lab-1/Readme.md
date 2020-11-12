@@ -12,4 +12,10 @@ Watch this video for the staps: https://www.linkedin.com/feed/update/urn:li:acti
 2. On Create Account, enter Email Address and Country/Territory, read Terms of Use, and click on Next </br>
 3. On Enter Account Details, select the Account Type, enter Cloud Account Name, First Name, Last Name, Address, City, State, Zip/Postal Code, Country/Territory, and Mobile Number, select the Home Region, and click on Next: Verify Mobile Number. </br>
    Note: You must have an OCI tenancy subscribed to the *Tokyo (East) </br>
-
+4.	On Verify Your Mobile Number, enter Code and click on Verify Code. 
+5.	On Enter Password, create a Password to be used on the Account.
+6.	On Payment Information, click on Add Credit Card Details. 
+7.	On Payment Method, enter First Name, Last Name, Address, City, Country/Region, State/Province, Zip/Postal Code, Phone Number, Email, Payment Details (including Card Type, Card Number, Expiration Date, CVN), and click on Finish.
+8.	On Payment Information, it will show a message saying “You won’t be charged unless you elect to upgrade the account.”
+Check the Checkbox to agree to the terms and conditions and click on Complete Sign-Up. 
+9. The Account will be created
