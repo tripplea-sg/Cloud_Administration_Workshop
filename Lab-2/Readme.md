@@ -52,4 +52,11 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
 </br>
 (Refer to Step-3 on the video) </br>
 1.	On the Navigation Menu, under Core Infrastructure, select Networking -> Virtual Cloud Networks. 
+2.	Click on Start VCN Wizard. 
+3.	On Start VCN Wizard, select VCN with Internet Connectivity and click on Button Start VCN Wizard. 
+4.	On Create a VCN with Internet Connectivity, under Basic Information, enter VCN Name and select the Compartment.  </br>
+Under Configure VCN and Subnets, add 10.0.0.0/16 on VCN CIDR Block, 10.0.0.0/24 on Public Subnet CIDR Block, and 10.0.1.0/24 on Private Subnet CIDR Block and click Next. 
+5.	Under Review and Create, review the Oracle Virtual Cloud Network (VCN) and Subnets information and click on Create.
+6.	The Virtual Cloud Network creation is completed. 
+7.	On Created Virtual Cloud Network, click on View Virtual Cloud Network to view the VCN and Subnets created. 
 
