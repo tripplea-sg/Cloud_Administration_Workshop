@@ -17,7 +17,7 @@ ls /home/opc/backup/full
 ## Backup Schema only
 Use MySQL Shell dump Schemas to backup selected schemas only to /home/opc/backup/schema_only 
 ```
-mysqlsh root@localhost:3306 -e "util.dumpSchemas(['sakila','world_x'], "/home/opc/backup/schema_only")
+mysqlsh root@localhost:3306 -e "util.dumpSchemas(['sakila','world_x'], '/home/opc/backup/schema_only')"
 ```
 That command will only backup sakila and world_x databases </br>
 Check directory /home/opc/backup/schema_only
