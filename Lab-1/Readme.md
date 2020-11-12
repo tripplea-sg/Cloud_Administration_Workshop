@@ -11,9 +11,8 @@ That means: </br></br>
 1. To Sign in for an Oracle Cloud Free Tier Account, please, visit https://www.oracle.com/cloud/free/, and click on **Start for free**. </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
-2. On Create Account, enter Email Address and Country/Territory, read Terms of Use, and click on **Next**
-
-![Image of picture2](https://octodex.github.com/images/yaktocat.png)
+2. On Create Account, enter Email Address and Country/Territory, read Terms of Use, and click on **Next** </br>
+![Image of picture2](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture2.png)
 </br>
 3. On Enter Account Details, select the Account Type, enter Cloud Account Name, First Name, Last Name, Address, City, State, Zip/Postal Code, Country/Territory, and Mobile Number, select the Home Region, and click on **Next: Verify Mobile Number**. </br>
    **Note: You must have an OCI tenancy subscribed to the Tokyo (East)** </br>
