@@ -15,10 +15,10 @@ That means: </br></br>
 
 ![Image of picture2](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture2.png)
 </br>
-![Image of picture3](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture3.png)
-</br>
 3. On Enter Account Details, select the Account Type, enter Cloud Account Name, First Name, Last Name, Address, City, State, Zip/Postal Code, Country/Territory, and Mobile Number, select the Home Region, and click on **Next: Verify Mobile Number**. </br>
    **Note: You must have an OCI tenancy subscribed to the Tokyo (East)** </br>
+![Image of picture3](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture3.png)
+</br>
 ![Image of picture3](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture4.png)
 </br>
 4.	On Verify Your Mobile Number, enter Code and click on **Verify Code**. 
