@@ -24,6 +24,10 @@ Check directory /home/opc/backup/schema_only
 ```
 ls /home/opc/backup/schema_only
 ```
-
+## Restore database from backup
+Create new database with port number 3311
+```
+mysqlsh -e "dba.deploySandboxInstance(3311)"
+```
 
 
