@@ -12,27 +12,27 @@ That means: </br></br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 2. On Create Account, enter Email Address and Country/Territory, read Terms of Use, and click on **Next** </br>
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture2](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 3. On Enter Account Details, select the Account Type, enter Cloud Account Name, First Name, Last Name, Address, City, State, Zip/Postal Code, Country/Territory, and Mobile Number, select the Home Region, and click on **Next: Verify Mobile Number**. </br>
    **Note: You must have an OCI tenancy subscribed to the Tokyo (East)** </br>
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture3](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 4.	On Verify Your Mobile Number, enter Code and click on **Verify Code**. 
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture4](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 5.	On Enter Password, create a Password to be used on the Account.
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture5](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 6.	On Payment Information, click on Add Credit Card Details. 
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture6](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 7.	On Payment Method, enter First Name, Last Name, Address, City, Country/Region, State/Province, Zip/Postal Code, Phone Number, Email, Payment Details (including Card Type, Card Number, Expiration Date, CVN), and click on **Finish**.
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture7](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 8.	On Payment Information, it will show a message saying **“You won’t be charged unless you elect to upgrade the account.”**. 
 **Check the Checkbox to agree to the terms and conditions and click on Complete Sign-Up** 
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
+![Image of picture8](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
 9. The Account will be created
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
