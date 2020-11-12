@@ -56,8 +56,10 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev1.png)
 </br>
 2.	Click on Start VCN Wizard. 
+ </br>
  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev2.png)
 </br>
+
 3.	On Start VCN Wizard, select VCN with Internet Connectivity and click on Button Start VCN Wizard. 
  
  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picturev3.png)
