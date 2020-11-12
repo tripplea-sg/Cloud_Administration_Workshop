@@ -2,5 +2,5 @@ Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which p
 The Free Trial services may be used until your US$300 of free credits are consumed or the 30 days has expired, whichever comes first (source: https://www.oracle.com/sg/cloud/free/faq.html)
 </br></br>
 That means: </br></br>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Screenshot%202020-11-12%20at%208.33.21%20PM.png)
 
