@@ -47,8 +47,9 @@ Note:  Two Compartments, named Oracle Account Name (root) and a Managed Compartm
   -	Allow group Administrators to manage mysql-family in tenancy
   ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture6.png)
 </br>
-## Create Virtual Cloud Network (VCN)
 
+## Create Virtual Cloud Network (VCN)
+</br>
 (Refer to Step-3 on the video) </br>
 1.	On the Navigation Menu, under Core Infrastructure, select Networking -> Virtual Cloud Networks. 
 
