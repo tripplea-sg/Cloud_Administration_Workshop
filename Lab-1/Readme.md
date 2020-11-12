@@ -39,6 +39,6 @@ That means: </br></br>
 **Check the Checkbox to agree to the terms and conditions and click on Complete Sign-Up** 
 ![Image of picture8](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture10.png)
 </br>
-9. The Account will be created
+9. The Account will be created </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture11.png)
-</br>
+
