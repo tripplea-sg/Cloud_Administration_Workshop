@@ -4,6 +4,7 @@ Exit from MySQL Shell using "\q" or "\quit" if you haven't done so.
 ```
 mkdir -p /home/opc/backup/full
 mkdir -p /home/opc/backup/schema_only
+mkdir -p /home/opc/backup/tables_only
 ```
 ## Backup database
 Use MySQL Shell dummp instance to backup the whole database to /home/opc/backup/full
@@ -24,6 +25,12 @@ Check directory /home/opc/backup/schema_only
 ```
 ls /home/opc/backup/schema_only
 ```
+## Backup Tables only
+Use MMySQL Shell dump tables to backup selected tables or all tables within a schema
+```
+mysqlsh root@localhost:3306 --e "util.dumpTables('sakila',[],'/home/opc/backup/tables_only',{'all':true})"
+```
+The above command will backup all tables in sakila database (empty array: [] and 'all':true) to /home/opc/backup/tables_only
 ## Restore database from backup
 Create new database with port number 3311
 ```
@@ -46,7 +53,7 @@ Now, see the result and you will see sakila and world_x databases on 3311
 ```
 \sql show databases;
 ```
-## Restore schema with another schema name
+## Restore schema using another schema name
 
 
 
