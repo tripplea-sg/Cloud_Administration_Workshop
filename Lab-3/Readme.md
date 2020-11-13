@@ -48,14 +48,17 @@ Detail steps are here:
 4. On Category menu, click: "Connection" > "SSH" > "Auth" to select Private Key File
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.27.19%20AM.png)
 </br>
+5. Click browse, and upload workshop.ppk file (e.g. from D:\tmp)
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.27.32%20AM.png)
 </br>
-5. Click browse, and upload workshop.ppk file (e.g. from D:\tmp)
-
-
-
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.27.42%20AM.png)
+</br>
 6. On Category menu, click "Session"
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.28.08%20AM.png)
+</br>
 7. On "Saved Session", enter "MySQL Workshop"
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.28.17%20AM.png)
+</br>
 8. click save and load to login
 
 ## Setup MySQL
