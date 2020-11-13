@@ -4,10 +4,16 @@ Please watch the tutorial video here for your reference: https://www.youtube.com
 **Use id_rsa.pub** </br></br>
 The steps are outlined below: </br>
 
-
-
-
 ## Connect to Your Virtual Machine
+1.	On the navigation Menu, under Core Infrastructure, click on Compute -> Instances
+2.	On Instances in <Compartment Name> Compartment, click on Create Instance.
+3.	On Create Compute Instance, enter a Name for the instance, choose an operating system or image source (on this case, please select Oracle Linux), and click on Show Shape, Network, and Storage Options.
+4.	On Create Compute Instance, under Shape, Network, Storage Options, select the Availability Domain, Instance Type (please, select Virtual Machine), and Instance Shape (please, select VM.Standard.E2.1.Micro (Virtual Machine)). 
+5.	On Create Compute Instance, under Shape, Network, Storage Options, verify the Network Configuration, including Virtual cloud network compartment, Virtual Cloud Network, and Subnet Compartment, and select a Public Subnet under Subnet. Also, click on Assign a public IP address.  
+6. Under Add SSH Key, click on Choose Files.
+7. Select the id_rsa.pub file and click choose. 
+On Create Compute Instance, click Create.
+8.	The New Virtual Machine will be ready to use after a few minutes. The state will be shown as Provisioning during the creation.  
 
 ## Setup MySQL
 1. Login to server </br>
