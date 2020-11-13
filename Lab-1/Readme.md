@@ -7,7 +7,9 @@ That means: </br></br>
 ![Image of Yaktocat](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Screenshot%202020-11-12%20at%208.33.21%20PM.png)
 </br></br>
 ## Step - 1: Register to Oracle Cloud to use FREE TIER
+</br>
 **Watch this video for easy reference**: https://www.linkedin.com/feed/update/urn:li:activity:6724226562507595776/
+</br>
 1. To Sign in for an Oracle Cloud Free Tier Account, please, visit https://www.oracle.com/cloud/free/, and click on **Start for free**. </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-1/Picture1.png)
 </br>
