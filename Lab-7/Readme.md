@@ -38,6 +38,8 @@
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-7/Screenshot%202020-11-13%20at%205.37.24%20PM.png)
 </br>
 2. Click your VCN below (sample: workshop-vcn)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-7/Screenshot%202020-11-13%20at%206.59.52%20PM.png)
+</br>
 3. Click Private Subnet 
 4. Click the Security List
 5. Add Ingress Rule (source: 0.0.0.0/24, TCP, All ... Destination: port 3306)
