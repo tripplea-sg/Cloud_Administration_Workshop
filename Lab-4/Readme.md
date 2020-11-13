@@ -3,6 +3,8 @@ Architecture: </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-4/mysql_document_store_architecture.png)
 </br>
 MySQL has two ports: classic protocol (3306) and X protocol (33060). X protocol is used for SQL + NoSQL. </br>
+MySQL Shell supports SQL, Java Script, and Python
+## Use Java Script
 Connect to database using Port **33060** with JavaScript (JS) on MySQL Shell
 ```
 mysqlsh root@localhost:33060
@@ -24,6 +26,7 @@ Query countryinfo only for NAME like 'J%' and show only the first 2 records
 ```
 colCI.find("Name LIKE 'J%'").limit(2);
 ```
+## Switch to Python
 Do you like to use Python ? </br>
 MySQL Shell supports Python as well. We can do the same query using Python
 ```
@@ -34,6 +37,7 @@ colCI = session.get_schema('world_x').get_collection('countryinfo');
 colCI.find().limit(2);
 colCI.find("Name LIKE 'J%'").limit(2);
 ```
+## Switch to SQL
 Do you like to use SQL ? </br>
 Definitely MySQL is an SQL database, so you can use SQL. </br>
 Switch to use SQL and formatting JSON document in SQL as follow:
