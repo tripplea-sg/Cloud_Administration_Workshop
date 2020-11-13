@@ -33,3 +33,14 @@ Exit from MySQL Shell
 ```
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-6/Screenshot%202020-11-13%20at%2012.59.12%20PM.png)
 </br>
+## Test the Replication
+Create transactions on source (3311):
+```
+mysqlsh root@localhost:3311 --sql -e "create databse test; create table test.test (i int); insert into test values (1),(2),(3);"
+mysqlsh root@localhost:3311 --sql -e "select * from test.test"
+```
+Query records on replica (3306):
+```
+mysqlsh root@localhost:3306 --sql -e "select * from test.test"
+```
+
