@@ -36,10 +36,22 @@ Please watch this video for your reference: https://www.youtube.com/watch?v=Yz7T
 </br>
 Detail steps are here:
 1. Open Putty and enter your VM's public IP Address
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.26.19%20AM.png)
+</br>
 2. On Category menu, click: "Connection" > "Data"
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.26.41%20AM.png)
+</br>
 3. Enter "opc" on "Auto-Login Username"
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.26.55%20AM.png)
+</br>
 4. On Category menu, click: "Connection" > "SSH" > "Auth" to select Private Key File
-5. Press browse, and upload workshop.ppk file (e.g. from D:\tmp)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.27.19%20AM.png)
+</br>
+5. Click browse, and upload workshop.ppk file (e.g. from D:\tmp)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-14%20at%2012.27.32%20AM.png)
+</br>
+
+
 6. On Category menu, click "Session"
 7. On "Saved Session", enter "MySQL Workshop"
 8. click save and load to login
