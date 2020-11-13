@@ -62,6 +62,8 @@ Now, see the result and you will see sakila and world_x databases on 3311
 \sql show databases;
 ```
 ## Restore schema using another schema name
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-4/mysql_document_store_architecture.png)
+</br>
 Create new database sakila_dump
 ```
 \sql create database sakila_dump;
