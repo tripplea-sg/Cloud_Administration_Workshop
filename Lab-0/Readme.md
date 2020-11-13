@@ -1,6 +1,6 @@
 # PREPARATION
 
-1. Download and Install Putty for Windows (Putty.exe)
+1. Download and Install Putty for Windows (Putty.exe) </br>
 To download: https://www.putty.org/. </br>
 To install: https://www.ssh.com/ssh/putty/windows/install
 
