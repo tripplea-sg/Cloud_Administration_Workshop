@@ -5,7 +5,7 @@ Please watch the tutorial video here for your reference: https://www.youtube.com
 The steps are outlined below: </br>
 
 1.	On the navigation Menu, under Core Infrastructure, click on Compute -> Instances
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-13%20at%209.52.51%20PM.png)
 </br>
 2.	On Instances in <Compartment Name> Compartment, click on Create Instance.
 
