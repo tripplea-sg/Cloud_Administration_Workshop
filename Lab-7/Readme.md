@@ -35,6 +35,8 @@
 </br>
 ## Open Connection
 1. Go to OCI Dashboard and Click Networking >> Virtual Cloud Network
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-7/Screenshot%202020-11-13%20at%205.37.24%20PM.png)
+</br>
 2. Click your VCN below (sample: workshop-vcn)
 3. Click Private Subnet 
 4. Click the Security List
