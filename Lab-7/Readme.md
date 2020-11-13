@@ -47,7 +47,10 @@ Exit from Shell
 ```
 \q
 ```
-
+## Setup Site-to-Site VPN from On Premise
+https://blogs.oracle.com/mysql/migrate-from-on-premise-mysql-to-mysql-database-service
+## Without VPN
+https://lefred.be/content/testing-mysql-database-service-without-vpn/
 
 
   
