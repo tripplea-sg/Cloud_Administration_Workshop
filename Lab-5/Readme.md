@@ -30,7 +30,7 @@ Use MMySQL Shell dump tables to backup selected tables or all tables within a sc
 ```
 mysqlsh root@localhost:3306 --e "util.dumpTables('sakila',[],'/home/opc/backup/tables_only',{'all':true})"
 ```
-The above command will backup all tables in sakila database (empty array: [] and 'all':true) to /home/opc/backup/tables_only
+The above command will backup all tables in sakila database (empty table array: [] and 'all':true) to /home/opc/backup/tables_only
 ## Restore database from backup
 Create new database with port number 3311
 ```
@@ -54,6 +54,25 @@ Now, see the result and you will see sakila and world_x databases on 3311
 \sql show databases;
 ```
 ## Restore schema using another schema name
+Create new database sakila_dump
+```
+\sql create database sakila_dump;
+\sql show databases;
+```
+Import sakila schema dump file from  /home/opc/backup/tables_only to sakila_dump
+```
+util.loadDump('/home/opc/backup/tables_only',{'schema':'sakila_dump'})
+```
+Check schema sakila_dump
+```
+\sql
+use sakila_dump;
+show tables;
+select * from actor;
+```
+Use \q to exit MySQL Shell
+## Clone Database
+
 
 
 
