@@ -10,3 +10,4 @@ https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-0/202
 
 3. Download public key (id_rsa.pub) to create VM on Oracle Cloud for this workshop
 4. Download private key (workshop.ppk) to connect using Putty. Save the file on D:\temp\
+5. Download private key (id_rsa) to local drive, just in case.
