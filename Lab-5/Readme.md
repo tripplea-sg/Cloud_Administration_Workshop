@@ -7,7 +7,7 @@ mkdir -p /home/opc/backup/schema_only
 mkdir -p /home/opc/backup/tables_only
 ```
 ## Backup database
-Use MySQL Shell dummp instance to backup the whole database to /home/opc/backup/full
+Use MySQL Shell dump instance to backup the whole database to /home/opc/backup/full
 ```
 mysqlsh root@localhost:3306 -e "util.dumpInstance('/home/opc/backup/full')"
 ```
