@@ -63,5 +63,17 @@ Exit from MySQL Shell
 ```
 \q
 ```
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-6/Screenshot%202020-11-13%20at%201.19.41%20PM.png)
+</br>
+## Test the bi-directional Replication
+Create transactions on source (3306):
+```
+mysqlsh root@localhost:3306 --sql -e "create database demo; create table demo.demo (i int); insert into demo.demo values (1),(2),(3);"
+mysqlsh root@localhost:3306 --sql -e "select * from demo.demo"
+```
+Query these records on replica (3306):
+```
+mysqlsh root@localhost:3306 --sql -e "select * from demo.demo"
+```
 
 
