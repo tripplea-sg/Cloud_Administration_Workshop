@@ -6,9 +6,6 @@ Please watch the tutorial video here for your reference: https://www.youtube.com
 **Use your id_rsa.pub file**
 </br>
 The steps are outlined below:
-
-
-
 ## Connect to Your Virtual Machine
 
 ## Setup MySQL
