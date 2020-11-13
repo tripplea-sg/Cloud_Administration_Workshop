@@ -7,6 +7,8 @@ mkdir -p /home/opc/backup/schema_only
 mkdir -p /home/opc/backup/tables_only
 ```
 ## Backup database
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+</br>
 Use MySQL Shell dump instance to backup the whole database to /home/opc/backup/full
 ```
 mysqlsh root@localhost:3306 -e "util.dumpInstance('/home/opc/backup/full')"
@@ -16,7 +18,7 @@ Check directory /home/opc/backup/full
 ls /home/opc/backup/full
 ```
 ## Backup Schema only
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-4/mysql_document_store_architecture.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
 </br>
 Use MySQL Shell dump Schemas to backup selected schemas only to /home/opc/backup/schema_only 
 ```
