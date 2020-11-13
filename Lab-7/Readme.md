@@ -34,6 +34,20 @@
 </br>
 </br>
 ## Open Connection
+1. Go to OCI Dashboard and Click Networking >> Virtual Cloud Network
+2. Click your VCN below (sample: workshop-vcn)
+3. Click Private Subnet 
+4. Click the Security List
+5. Add Ingress Rule (source: 0.0.0.0/24, TCP, All ... Destination: port 3306)
+## Connect to your MDS from VM
+```
+mysqlsh {your_user}@{MDS_Internal_IP}:3306
+```
+Exit from Shell
+```
+\q
+```
+
 
 
   
