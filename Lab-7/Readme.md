@@ -26,9 +26,11 @@
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-7/Screenshot%202020-11-13%20at%202.49.19%20PM.png)
 </br>
 6.	The New MySQL DB System will be ready to use after a few minutes. The state will be shown as Creating during the creation.  
-
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-7/Screenshot%202020-11-13%20at%202.49.19%20PM.png)
+</br>
 7.	The state Active indicates that the DB System is ready to use. Check the MySQL endpoint (Address) under Instances in the MySQL DB System Details page.
-
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-7/Screenshot%202020-11-13%20at%202.49.19%20PM.png)
+</br>
 
   
 
