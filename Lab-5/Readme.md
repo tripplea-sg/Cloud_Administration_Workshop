@@ -18,7 +18,7 @@ Check directory /home/opc/backup/full
 ls /home/opc/backup/full
 ```
 ## Backup Schema only
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.18.47%20AM.png)
 </br>
 Use MySQL Shell dump Schemas to backup selected schemas only to /home/opc/backup/schema_only 
 ```
