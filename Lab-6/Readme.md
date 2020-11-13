@@ -71,9 +71,9 @@ Create transactions on source (3306):
 mysqlsh root@localhost:3306 --sql -e "create database demo; create table demo.demo (i int); insert into demo.demo values (1),(2),(3);"
 mysqlsh root@localhost:3306 --sql -e "select * from demo.demo"
 ```
-Query these records on replica (3306):
+Query these records on replica (3311):
 ```
-mysqlsh root@localhost:3306 --sql -e "select * from demo.demo"
+mysqlsh root@localhost:3311 --sql -e "select * from demo.demo"
 ```
 
 
