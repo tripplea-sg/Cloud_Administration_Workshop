@@ -32,6 +32,17 @@ On Create Compute Instance, click Create.
 </br>
 
 ## Connect to Your Virtual Machine
+Please watch this video for your reference: https://www.youtube.com/watch?v=Yz7T7PGPlo4
+</br>
+Detail steps are here:
+1. Open Putty and enter your VM's public IP Address
+2. On Category menu, click: "Connection" > "Data"
+3. Enter "opc" on "Auto-Login Username"
+4. On Category menu, click: "Connection" > "SSH" > "Auth" to select Private Key File
+5. Press browse, and upload workshop.ppk file (e.g. from D:\tmp)
+6. On Category menu, click "Session"
+7. On "Saved Session", enter "MySQL Workshop"
+8. click save and load to login
 
 ## Setup MySQL
 1. Login to server </br>
