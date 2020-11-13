@@ -9,7 +9,8 @@
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-6/Screenshot%202020-11-13%20at%2012.59.12%20PM.png)
 </br>
 2.	On DB Systems in <Compartment Name> Compartment, click on Create MySQL DB System. 
-  ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-6/Screenshot%202020-11-13%20at%2012.59.12%20PM.png)
+
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-6/Screenshot%202020-11-13%20at%2012.59.12%20PM.png)
 </br>
 3.	On Create MySQL DB System, under DB System Information, select a Compartment, enter a Name for the DB System, add a Description, select an Availability Domain, select a Fault Domain, select a configuration for the MySQL Shape, and click Next. 
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-6/Screenshot%202020-11-13%20at%2012.59.12%20PM.png)
