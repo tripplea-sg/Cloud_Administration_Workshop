@@ -28,7 +28,7 @@ On Create Compute Instance, click Create.
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-13%20at%2010.37.13%20PM.png)
 </br>
 8.	The New Virtual Machine will be ready to use after a few minutes. The state will be shown as Provisioning during the creation.  
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-13%20at%2010.42.56%20PM.png)
 </br>
 
 ## Connect to Your Virtual Machine
