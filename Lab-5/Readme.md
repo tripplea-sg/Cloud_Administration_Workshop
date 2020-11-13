@@ -30,7 +30,7 @@ Check directory /home/opc/backup/schema_only
 ls /home/opc/backup/schema_only
 ```
 ## Backup Tables only
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-4/mysql_document_store_architecture.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.20.20%20AM.png)
 </br>
 Use MMySQL Shell dump tables to backup selected tables or all tables within a schema
 ```
