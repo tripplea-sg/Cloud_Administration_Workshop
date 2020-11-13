@@ -36,7 +36,7 @@ Exit from MySQL Shell
 ## Test the Replication
 Create transactions on source (3311):
 ```
-mysqlsh root@localhost:3311 --sql -e "create databse test; create table test.test (i int); insert into test values (1),(2),(3);"
+mysqlsh root@localhost:3311 --sql -e "create database test; create table test.test (i int); insert into test values (1),(2),(3);"
 mysqlsh root@localhost:3311 --sql -e "select * from test.test"
 ```
 Query these records on replica (3306):
