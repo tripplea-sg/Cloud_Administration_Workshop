@@ -38,7 +38,7 @@ mysqlsh root@localhost:3306 --e "util.dumpTables('sakila',[],'/home/opc/backup/t
 ```
 The above command will backup all tables in sakila database (empty table array: [] and 'all':true) to /home/opc/backup/tables_only
 ## Restore database from backup
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-4/mysql_document_store_architecture.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.39.09%20AM.png)
 </br>
 Create new database with port number 3311
 ```
