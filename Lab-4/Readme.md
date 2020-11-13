@@ -1,5 +1,5 @@
 # MySQL 8.0 = SQL + NoSQL
-Architecture:
+Architecture: </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-2/Picture3.png)
 </br>
 MySQL has two ports: classic protocol (3306) and X protocol (33060). X protocol is used for SQL + NoSQL. </br>
