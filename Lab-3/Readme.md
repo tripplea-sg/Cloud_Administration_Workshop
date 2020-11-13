@@ -1,11 +1,13 @@
 # Provision Virtual Machine on your compartment, setup MySQL, MySQL Shell and MySQL Router
 ## Provision Virtual Machine 
 </br>
-Please watch the tutorial video here for your reference: https://www.youtube.com/watch?v=CHWD1qGxraQ
-</br>
-**Use your id_rsa.pub file**
-</br>
-The steps are outlined below:
+Please watch the tutorial video here for your reference: https://www.youtube.com/watch?v=CHWD1qGxraQ </br>
+**Use id_rsa.pub** </br>
+The steps are outlined below: </br>
+
+
+
+
 ## Connect to Your Virtual Machine
 
 ## Setup MySQL
