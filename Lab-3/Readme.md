@@ -8,6 +8,7 @@ The steps are outlined below: </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
 </br>
 2.	On Instances in <Compartment Name> Compartment, click on Create Instance.
+
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
 </br>
 3.	On Create Compute Instance, enter a Name for the instance, choose an operating system or image source (on this case, please select Oracle Linux), and click on Show Shape, Network, and Storage Options.
