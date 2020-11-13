@@ -43,4 +43,25 @@ Query these records on replica (3306):
 ```
 mysqlsh root@localhost:3306 --sql -e "select * from test.test"
 ```
+## Bi-Directional Replication
+Ensure log_slave_updates = ON on both 3306 and 3311
+```
+mysqlsh root@localhost:3311 --sql -e "show variables like 'log_slave_updates'"
+mysqlsh root@localhost:3306 --sql -e "show vairables like 'log_slave_updates'"
+```
+Login to database 3311:
+```
+mysqlsh root@localhost@3311 --sql
+```
+Create replication channel for replication from 3311 to 3306:
+```
+change master to master_user='repl', master_port=3306, master_host='127.0.0.1', master_password='repl', master_auto_position=1 for channel 'channel2';
+start replica for channel 'channel2';
+show replica status for channel 'channel2' \G;
+```
+Exit from MySQL Shell
+```
+\q
+```
+
 
