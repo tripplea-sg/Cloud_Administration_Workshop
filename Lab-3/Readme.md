@@ -12,20 +12,20 @@ The steps are outlined below: </br>
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-13%20at%209.54.46%20PM.png)
 </br>
 3.	On Create Compute Instance, enter a Name for the instance, choose an operating system or image source (on this case, please select Oracle Linux), and click on Show Shape, Network, and Storage Options.
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Picture3.png)
 </br>
 4.	On Create Compute Instance, under Shape, Network, Storage Options, select the Availability Domain, Instance Type (please, select Virtual Machine), and Instance Shape (please, select VM.Standard.E2.1.Micro (Virtual Machine)). 
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Picture4.png)
 </br>
 5.	On Create Compute Instance, under Shape, Network, Storage Options, verify the Network Configuration, including Virtual cloud network compartment, Virtual Cloud Network, and Subnet Compartment, and select a Public Subnet under Subnet. Also, click on Assign a public IP address.  
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Picture5.png)
 </br>
 6. Under Add SSH Key, click on Choose Files.
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-13%20at%2010.36.56%20PM.png)
 </br>
 7. Select the id_rsa.pub file and click choose. 
 On Create Compute Instance, click Create.
-![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-3/Screenshot%202020-11-13%20at%2010.37.13%20PM.png)
 </br>
 8.	The New Virtual Machine will be ready to use after a few minutes. The state will be shown as Provisioning during the creation.  
 ![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.12.35%20AM.png)
