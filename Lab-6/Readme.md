@@ -51,7 +51,7 @@ mysqlsh root@localhost:3306 --sql -e "show variables like 'log_slave_updates'"
 ```
 Login to database 3311:
 ```
-mysqlsh root@localhost@3311 --sql
+mysqlsh root@localhost:3311 --sql
 ```
 Create replication channel for replication from 3311 to 3306:
 ```
