@@ -47,7 +47,7 @@ mysqlsh root@localhost:3306 --sql -e "select * from test.test"
 Ensure log_slave_updates = ON on both 3306 and 3311
 ```
 mysqlsh root@localhost:3311 --sql -e "show variables like 'log_slave_updates'"
-mysqlsh root@localhost:3306 --sql -e "show vairables like 'log_slave_updates'"
+mysqlsh root@localhost:3306 --sql -e "show variables like 'log_slave_updates'"
 ```
 Login to database 3311:
 ```
