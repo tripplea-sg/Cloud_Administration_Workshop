@@ -84,6 +84,8 @@ Use \q to exit MySQL Shell
 ## Clone Database
 The simplest way to clone MySQL database is using "clone" plugin. </br>
 The following exercise will clone database 3311 to database 3306. All objects on 3306 will be wiped out and replaced automatically. </br>
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.39.35%20AM.png)
+</br>
 - install clone plugin on database 3311
 ```
 mysqlsh root@localhost:3311 --sql -e "install plugin clone soname 'mysql_clone.so'"
@@ -102,6 +104,8 @@ mysqlsh root@localhost:3306 --sql -e "set persist clone_valid_donor_list='127.0.
 ```
 mysqlsh root@localhost:3306 --sql -e "clone instance from clone@'127.0.0.1':3311 identified by 'clone'"
 ```
+![Image of picture1](https://github.com/tripplea-sg/Cloud_Administration_Workshop/blob/main/Lab-5/Screenshot%202020-11-13%20at%2011.39.35%20AM.png)
+</br>
 - Compare between database 3306 and database 3311
 ```
 mysqlsh root@localhost:3306 --sql -e "show databases"
