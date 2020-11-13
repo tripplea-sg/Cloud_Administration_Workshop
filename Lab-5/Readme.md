@@ -72,6 +72,14 @@ select * from actor;
 ```
 Use \q to exit MySQL Shell
 ## Clone Database
+The simplest way to clone MySQL database is using "clone" plugin. </br>
+The following exercise will clone database 3311 to database 3306. All objects on 3306 will be wiped out and replaced automatically. </br>
+- install clone plugin on database 3311
+- create user on database 3311 for cloning purpose
+- install clone plugin on database 3306
+- Cloning preparation on database 3306
+- Execute cloning on database 3306
+- Compare between database 3306 and database 3311
 
 
 
