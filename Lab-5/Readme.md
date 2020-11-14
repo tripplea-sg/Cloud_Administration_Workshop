@@ -34,7 +34,7 @@ ls /home/opc/backup/schema_only
 </br>
 Use MMySQL Shell dump tables to backup selected tables or all tables within a schema
 ```
-mysqlsh root@localhost:3306 --e "util.dumpTables('sakila',[],'/home/opc/backup/tables_only',{'all':true})"
+mysqlsh root@localhost:3306 -e "util.dumpTables('sakila',[],'/home/opc/backup/tables_only',{'all':true})"
 ```
 The above command will backup all tables in sakila database (empty table array: [] and 'all':true) to /home/opc/backup/tables_only
 ## Restore database from backup
